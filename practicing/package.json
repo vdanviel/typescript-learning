@@ -1,0 +1,13 @@
+{
+  "name": "practicing",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Running!\" && exit 1",
+    "code": "tsc -w"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
